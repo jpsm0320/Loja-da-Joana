@@ -1,0 +1,25 @@
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    height: 100vh;
+    color: white;
+}
+
+footer a:hover {
+    color: #ccc;
+}
+
+.img {
+    border-radius: 50%;
+}
+
+body {
+    background-color: white;
+}
+
+#produtos {
+    background-color: black !important;
+    color: white; /* Para o texto ficar visível */
+}
